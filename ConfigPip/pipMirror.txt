@@ -1,0 +1,6 @@
+清华镜像
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple [pack name]
+pip install jupyter notebook -i https://pypi.tuna.tsinghua.edu.cn/simple/
+pip install numpy -i https://mirrors.aliyun.com/pypi/simple/
+pip install pyinstaller -i http://pypi.mirrors.ustc.edu.cn/simple/
+pip install scikit-learn -i https://pypi.tuna.tsinghua.edu.cn/simple/

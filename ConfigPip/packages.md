@@ -1,0 +1,10 @@
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- opencv-python
+- tensorflow
+- pyqt5
+- pillow
+- scikit-learn   (sklearn)
+- scipy
