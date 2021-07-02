@@ -9,7 +9,7 @@
 分析出其中的点，边以及子图，然后根据属性进行绘制。
 因此可利用Graphviz可以将Sklearn生成dot格式的决策树可视化。
 
-###安装Graphviz
+### 安装Graphviz
 Graphviz 包不能使用pip或conda进行安装.
 
 官网下载， msi 格式的安装包  。手动安装
@@ -26,7 +26,7 @@ Graphviz 包不能使用pip或conda进行安装.
 
 在 cmd (<kbd>win</kbd>+<kbd>r</kbd>)中输入命令`dot -version`并按回车，若显示出 Graphviz 软件的版本信息，则安装成功。
 
-###安装pydotplus
+### 安装pydotplus
 
 pydotplus 是python的 API ， 它为graphviz的dot语言提供了一个python接口
 
