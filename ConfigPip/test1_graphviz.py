@@ -20,4 +20,6 @@ dot_data = tree.export_graphviz(clf, out_file=None,
                                 special_characters=True)
 
 graph = pydotplus.graph_from_dot_data(dot_data)
-graph.write_png('iris.png')
+graph.create_png()
+
+# graph.write_png('iris.png')
